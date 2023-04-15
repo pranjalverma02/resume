@@ -1,2 +1,2 @@
-# resume
-Resume Pranjal Verma
+# Resume
+Pranjal Verma
